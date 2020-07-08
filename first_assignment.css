@@ -1,0 +1,121 @@
+#header{
+
+    text-align: left;
+    margin: auto;
+    font-weight: bold;
+    height: 50px;
+    width:50px;
+    border-radius:50%;;
+    font-weight:bold;
+    background-color:white;
+    margin-left:25px;
+    margin-top:3px;
+
+} 
+.on i:hover{
+    background-color:#192f60;
+    box-shadow: rgb(179, 104, 104) 6px 8px 10px;
+}
+.on i:active{
+    background-color:green;
+}
+
+#logo{
+
+    font-size:25px;
+    color:red;
+    padding-top:12px;
+    padding-left:12px;
+    margin-left:2px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+#homepage{
+    color:white;
+}
+#red{
+    background-color:rgb(206, 5, 5);
+    width:100%;
+
+}
+#id{
+  color:white;
+  margin-right: 20px;
+  padding:6px;
+  font-size: 15px;
+  
+}
+
+#account{
+    color:white;
+    margin-right: 70px;
+    border-style:solid;
+    padding: 4px;
+    font-size:15px;
+
+}
+
+#wafflesandcakes{
+    
+    width:100%;
+    padding-left:40px;
+    padding-right:80px;
+}
+#Rname {
+    margin-left:16px;
+    color:#192f60;
+    text-shadow: indianred 10px 14px 18px;
+    font-weight: bold;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:40px;
+}
+
+#tabme{
+  float:right;
+  margin-right:90px;
+}
+.container button:hover{
+
+    background-color: greenyellow;
+   
+}
+
+.tab-content h3{
+    color:#192f60;
+    font-weight: bold;
+    text-shadow: orange 4px 6px 8px;
+    font: bold;
+    font-stretch: normal;
+
+}
+.tab-content p{
+    color:rgb(105, 202, 15);
+    font-weight: bold;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.tab-content h4{
+
+    font-weight: bold;
+    color: rgb(133, 184, 39);
+}
+
+.tab-content h5{
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color:indianred;
+}
+.container a{
+    color:rgb(53, 182, 35);
+    border-top: chocolate;
+    border-bottom:green;
+    font-weight: bold;
+}
+.container li:hover{
+    background-color: darkorange;
+}
+.container li:active{
+    background-color: rgb(160, 15, 136);
+}
